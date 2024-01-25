@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+dialog::backdrop{
+    background-color: forestgreen;
+    opacity: 50%;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid green;
+}
